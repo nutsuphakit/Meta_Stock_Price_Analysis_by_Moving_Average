@@ -1,1 +1,2 @@
-# Meta_Stock_Price_Analysis_by_Moving_Average
+# Meta_Stock_Price_Analysis
+Predict Meta Stock Close Price by Moving Average
